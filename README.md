@@ -4,3 +4,5 @@
 
 책에서 사용된 모든 소스 코드와 파일을 위한 저장소입니다.
  
+ ![표지 이미지](https://user-images.githubusercontent.com/19771481/63221621-af511700-c1d6-11e9-9dbf-d32506638cfb.jpg)
+
